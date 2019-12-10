@@ -1,0 +1,5 @@
+{
+    "require": {
+        "saulmoralespa/mipaquete-api-php": "^1.0"
+    }
+}
